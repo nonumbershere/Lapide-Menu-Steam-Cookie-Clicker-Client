@@ -11,6 +11,7 @@
 - **Open the uninstall.exe file**
 - **Copy this C:\Steam\steamapps\common\Cookie Clicker\ or find the DIR then paste it inside the console, by left clicking it.**
 - **You uninstalled it!**
-
+## Support
+- Make a new pull request for any bugs
 ## Preview
 ![image](https://user-images.githubusercontent.com/64395933/147612982-ae3419d7-4009-4461-b164-7770c6142f57.png)
