@@ -12,6 +12,6 @@
 - **Copy this C:\Steam\steamapps\common\Cookie Clicker\ or find the DIR then paste it inside the console, by left clicking it.**
 - **You uninstalled it!**
 ## Support
-- Make a new pull request for any bugs
+- [Make a new pull request for any bugs](https://github.com/nonumbershere/Lapide-Menu-Steam-Cookie-Clicker-Client/issues/new), click on Labels and select an option that you need.
 ## Preview
 ![image](https://user-images.githubusercontent.com/64395933/147612982-ae3419d7-4009-4461-b164-7770c6142f57.png)
