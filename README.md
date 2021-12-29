@@ -1,6 +1,14 @@
 ## What is Lapide Menu?
 **Lapide Menu is an injector for [Steam Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/), it was made by Lapide.**
 
+`
+DISCLAIMER
+I am not responsible for any damages caused while using Lapide Menu.
+
+WARNING
+Betas do not install the same as the alphas/originals. Installing the original after having the beta will break the hack! You need to uninstall the beta via its file. Check the How To Uninstall to learn how to uninstall betas and originals.
+`
+
 ## How To Install
 - **First you need to download it, you can [Download It Here](https://github.com/nonumbershere/Lapide-Menu-Steam-Cookie-Clicker/releases/download/latest/Lapide.Menu.zip)**
 - **Then, unzip it and open the install.exe file. It will ask you for the DIR.**
